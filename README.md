@@ -7,9 +7,10 @@ There is a provision of locking the access of Ethereum for up to 90 days right n
 ## Implementation
 
 UI: [Turbine Swap Ethereum Gift Cards](https://turbineswap.com/egc/)
+
 Smart Contract: [Arbiscan](https://arbiscan.io/address/0x7f6c04846f224d7ed841d01f29bf3a327d423b4c)
 
-Launch smart contract on localhost:
+## Launch smart contract on localhost:
 
 ```shell
 npx hardhat node
